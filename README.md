@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python and distributed systems.**
 
-- 📝 I regulary write articles on [abdisalan.com](abdisalan.com)
+- 📝 I regulary write articles on [https://abdisalan.com](abdisalan.com)
 
 - 💬 Ask me about **anything**
 
