@@ -7,4 +7,4 @@
 
 - 💬 Ask me about **anything**
 
-- ⚡ Fun fact **I'm a back belt in Shotokan Style Karate**
+- ⚡ Fun fact **I'm a black belt in Shotokan Style Karate**
