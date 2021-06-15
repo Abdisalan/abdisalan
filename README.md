@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **video streaming tech**
 
-- 📝 I regulary write articles on [abdisalan.com](https://abdisalan.com)
+- 📝 I write articles on [abdisalan.com](https://abdisalan.com)
 
 - 💬 Ask me about **anything**
 
