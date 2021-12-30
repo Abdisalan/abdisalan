@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdisalan Mohamud</h1>
 <h3 align="center">Software engineer</h3>
 
-- 🌱 I’m currently learning **video streaming tech**
+- 🌱 I’m currently learning **linux kernel development**
 
 - 📝 I write articles on [abdisalan.com](https://abdisalan.com)
 
